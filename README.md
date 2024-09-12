@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cakeman232
-- 👀 I’m interested in python - html css
-- 🌱 I’m currently learning python and html css
+- 👀 I’m interested in web development and content creation
+- 🌱 I’m currently learning wordpress and html css
 - 📫 To reach me contact cakeman23 on discord
 
 <!---
